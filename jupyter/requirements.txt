@@ -13,7 +13,7 @@ jedi==0.11.1
 Jinja2==2.10
 jsonschema==2.6.0
 jupyter-client==5.2.3
-jupyter-core==4.4.0
+jupyter-core==5.8.0
 jupyterlab==0.31.12
 jupyterlab-launcher==0.10.5
 kiwisolver==1.0.1
